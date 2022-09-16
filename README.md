@@ -2,10 +2,10 @@
 
 Just sign in and sign up screen UI.
 
-![image1](https://user-images.githubusercontent.com/107287484/190709335-6cd14614-da70-4476-ba00-641ef0fb7dfd.png)
-![image2](https://user-images.githubusercontent.com/107287484/190709346-2f09f839-660a-4fcd-b163-fa68bae5f4a7.png)
-![image3](https://user-images.githubusercontent.com/107287484/190709366-6c888064-f1b4-4d2f-b2f9-557f35bfee31.png)
-![image4](https://user-images.githubusercontent.com/107287484/190709371-66930f3f-de19-44e2-82f5-deed7e4845a0.png)
+![image1](https://user-images.githubusercontent.com/107287484/190709552-eece7d95-cbb7-4481-8ea5-73421ff52fa3.png)
+![image2](https://user-images.githubusercontent.com/107287484/190709555-b5f81a4e-102c-48de-b846-68626200b342.png)
+![image3](https://user-images.githubusercontent.com/107287484/190709558-ca455b13-eed4-43b9-9834-4e8663204b49.png)
+![image4](https://user-images.githubusercontent.com/107287484/190709559-99b7bc9d-07ad-48f2-a9c3-3bc11fe931ec.png)
 
 ## Getting Started
 
