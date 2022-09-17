@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.rayyantech.sign_in_sign_up_app_ui">
    <application
-        android:label="signin_signup"
+        android:label="sign_in_sign_up_app_ui"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

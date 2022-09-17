@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:signin_signup/contants/contants.dart';
+import 'package:sign_in_sign_up_app_ui/contants/contants.dart';
 
 class SocialIcons extends StatelessWidget {
   final String? icon;

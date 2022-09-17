@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:signin_signup/contants/contants.dart';
-import 'package:signin_signup/screens/login_screen.dart';
-import 'package:signin_signup/widgets/welcome_widgets/account_status_widget.dart';
-import 'package:signin_signup/widgets/welcome_widgets/rounded_button_widget.dart';
-import 'package:signin_signup/widgets/welcome_widgets/rounded_textfield_widget.dart';
-import 'package:signin_signup/widgets/welcome_widgets/social_icon_widget.dart';
-import 'package:signin_signup/widgets/welcome_widgets/svg_icons_widget.dart';
-import 'package:signin_signup/widgets/welcome_widgets/top_text_widget.dart';
+import 'package:sign_in_sign_up_app_ui/contants/contants.dart';
+import 'package:sign_in_sign_up_app_ui/screens/login_screen.dart';
+import 'package:sign_in_sign_up_app_ui/widgets/welcome_widgets/account_status_widget.dart';
+import 'package:sign_in_sign_up_app_ui/widgets/welcome_widgets/rounded_button_widget.dart';
+import 'package:sign_in_sign_up_app_ui/widgets/welcome_widgets/rounded_textfield_widget.dart';
+import 'package:sign_in_sign_up_app_ui/widgets/welcome_widgets/social_icon_widget.dart';
+import 'package:sign_in_sign_up_app_ui/widgets/welcome_widgets/svg_icons_widget.dart';
+import 'package:sign_in_sign_up_app_ui/widgets/welcome_widgets/top_text_widget.dart';
 
 class SignUpScreen extends StatefulWidget {
   static const id = '/sign_up_screen';

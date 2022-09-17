@@ -1,6 +1,6 @@
 {
-    "name": "signin_signup",
-    "short_name": "signin_signup",
+    "name": "sign_in_sign_up_app_ui",
+    "short_name": "sign_in_sign_up_app_ui",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:signin_signup/contants/contants.dart';
-import 'package:signin_signup/screens/welcome_screen.dart';
+import 'package:sign_in_sign_up_app_ui/contants/contants.dart';
+import 'package:sign_in_sign_up_app_ui/screens/welcome_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   static const id = '/splash_screen';
